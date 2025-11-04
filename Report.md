@@ -1,4 +1,4 @@
-# Diamond Pricing Analysis Report
+# Diamond Pricing Analysis Report/ https://docs.google.com/document/d/1Gqf2rjTkPtZG5h7tMwGvEZQz6LMFrf8G/edit?usp=sharing&ouid=107488969756865802234&rtpof=true&sd=true
 
 **Course:** MSBA 210 (2024) — Business Analytics  
 **Instructor:** Chong Huang  
